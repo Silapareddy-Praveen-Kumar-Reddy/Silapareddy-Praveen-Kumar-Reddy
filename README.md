@@ -1,4 +1,5 @@
-<h1>Hello World!, I'm Praveen, a Indian Web Delveloper 👋</h1>
+<h1>Hello World!, I'm Praveen, a Indian Web Delveloper 👋</h1> 
+<img align="right" alt="coding" width ="400px" src="">
 
 - 🔭 I’m currently working on **[Face-Detection-Image-Processing](https://github.com/Silapareddy-Praveen-Kumar-Reddy/Face-Detection-Image-Processing-)**
 
