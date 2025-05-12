@@ -22,8 +22,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Silapareddy-Praveen-Kumar-Reddy&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Silapareddy-Praveen-Kumar-Reddy&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Silapareddy-Praveen-Kumar-Reddy&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
 [![](https://visitcount.itsvg.in/api?id=Silapareddy-Praveen-Kumar-Reddy&icon=0&color=0)](https://visitcount.itsvg.in)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Silapareddy-Praveen-Kumar-Reddy/Silapareddy-Praveen-Kumar-Reddy/output/github-snake-dark.svg" />
