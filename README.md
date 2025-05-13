@@ -1,4 +1,4 @@
-<h1>Hello World!, I'm Praveen, a Indian Web Delveloper 👋</h1> 
+<h1>Hello World!, I'm Praveen a Indian Web Delveloper 👋</h1> 
 <img align="right" alt="coding" width ="180px"  src="https://github.com/Silapareddy-Praveen-Kumar-Reddy/Silapareddy-Praveen-Kumar-Reddy/blob/main/assets/giii">
 
 - 🔭 I’m currently working on **[Face-Detection-Image-Processing](https://github.com/Silapareddy-Praveen-Kumar-Reddy/Face-Detection-Image-Processing-)**
