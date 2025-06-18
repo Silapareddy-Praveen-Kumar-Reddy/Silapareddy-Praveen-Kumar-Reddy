@@ -5,7 +5,7 @@
  
 - 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **PYTHON,C,JAVASCRIPT**
+- 💬 Ask me about **PYTHON,C++,JAVA**
 
 - 📫 How to reach me **pp9111693@gmail.com**
 
