@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently contibuting to **Open Source**
  
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently mastering **DSA**
 
 - 💬 Ask me about **PYTHON,C++,JAVA**
 
