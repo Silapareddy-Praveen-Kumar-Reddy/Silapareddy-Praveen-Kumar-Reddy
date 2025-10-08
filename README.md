@@ -1,4 +1,4 @@
-<h1>Hello World !, I'm Praveen a Indian Software Delveloper 👋</h1> 
+<h1>Hello World !, I'm Praveen Indian Software Delveloper 👋</h1> 
 <img align="right" alt="coding" width ="180px"  src="https://github.com/Silapareddy-Praveen-Kumar-Reddy/Silapareddy-Praveen-Kumar-Reddy/blob/main/assets/giii">
 
 - 🔭 I’m currently contibuting to **Open Source**
