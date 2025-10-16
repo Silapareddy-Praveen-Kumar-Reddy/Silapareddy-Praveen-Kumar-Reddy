@@ -1,4 +1,4 @@
-# <h1 align="left">👋 Hi, I'm Silapareddy Praveen Kumar Reddy</h1
+# <h1 align="left">👋 Hi, I'm Silapareddy Praveen Kumar Reddy</h1>
 
 🏫 **4th Year B.Tech CSE @ Vishnu Institute of Technology, Bhimavaram**  
 🎯 **Driven to create technology that makes life better!**  
