@@ -1,6 +1,4 @@
-# <h1 align="left">👋 Hi, I'm Silapareddy Praveen Kumar Reddy</h1>
-
-<img align="right" alt="coding" width="180px" src="https://github.com/Silapareddy-Praveen-Kumar-Reddy/Silapareddy-Praveen-Kumar-Reddy/blob/main/assets/giii">
+# <h1 align="left">👋 Hi, I'm Silapareddy Praveen Kumar Reddy</h1
 
 🏫 **4th Year B.Tech CSE @ Vishnu Institute of Technology, Bhimavaram**  
 🎯 **Driven to create technology that makes life better!**  
