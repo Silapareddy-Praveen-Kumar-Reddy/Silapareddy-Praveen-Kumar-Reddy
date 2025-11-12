@@ -7,7 +7,7 @@
 
 🚀 **Currently Working On :**  
 • Mastering **Data Structures & Algorithms**  
-• Building with **GEN AI** tools & exploring open source  
+• Building longside **GEN AI** tools & exploring open source  
 • Developing with **Flutter**, **MERN**, **Cloud**, and automation  
 
 
