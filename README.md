@@ -13,6 +13,7 @@
 
 💬 **Ask me about:** Python, Java, C++, JavaScript, ML, Web & App Dev  
 📫 **Email:** praveenkumarreddysilapareddy@gmail.com 
+🦾 **Portfolio:** https://pp911.netlify.app/ 
 
 ## ⚡️ Where to find me
 
