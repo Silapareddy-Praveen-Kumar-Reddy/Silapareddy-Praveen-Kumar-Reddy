@@ -46,7 +46,6 @@
 
 
 # 📊 GitHub Stats:
-![Silapareddy-Praveen-Kumar-Reddy's Stats](https://github-readme-stats.vercel.app/api?username=Silapareddy-Praveen-Kumar-Reddy&theme=dark&show_icons=true&hide_border=true&count_private=true) 
 ![](https://nirzak-streak-stats.vercel.app/?user=Silapareddy-Praveen-Kumar-Reddy&theme=dark&hide_border=true)
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Silapareddy-Praveen-Kumar-Reddy&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
